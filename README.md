@@ -10,7 +10,7 @@ I'm Nemanja Gradic a Front End Web Developer. I spend most of time coding projec
 <!-- TODO: Add last video link -->
 
 - 🌍 I'm based in Belgrade, Serbia.
-- 🧠 Currently learning ReactJS.
+- 🧠 Currently working on projects.
 - 📫 How to reach me: nemanjagradic12345@gmail.com.
 - 🤝 I'm open to collaborating on interesting projects as a developer.
 
