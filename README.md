@@ -23,3 +23,5 @@ I'm Nemanja Gradic a Front End Web Developer. I spend most of time coding projec
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-8800ff?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=8800ff)](#)
 [![React Badge](https://img.shields.io/badge/-React-red?style=for-the-badge&labelColor=white&logo=react&logoColor=red)](#)
+![ChakraUI Badge](https://img.shields.io/badge/Chakra%20ui-%23000?style=for-the-badge&logo=chakraui&labelColor=white&color=lightblue)
+
