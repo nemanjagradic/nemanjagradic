@@ -20,10 +20,12 @@ I'm Nemanja Gradic a Front End Web Developer. I spend most of time coding projec
 
 [![HTML Badge](https://img.shields.io/badge/-HTML-ff8400?style=for-the-badge&labelColor=black&logo=html5)](#)
 [![CSS Badge](https://img.shields.io/badge/-CSS-007acc?style=for-the-badge&labelColor=black&logo=css3&logoColor=007acc)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-8800ff?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=8800ff)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![React Badge](https://img.shields.io/badge/-React-red?style=for-the-badge&labelColor=white&logo=react&logoColor=red)](#)
-![ChakraUI Badge](https://img.shields.io/badge/Chakra%20ui-%23000?style=for-the-badge&logo=chakraui&labelColor=white&color=lightblue)
+![SASS Badge](https://img.shields.io/badge/Sass-purple?style=for-the-badge&logo=sass&logoColor=purple&labelColor=white)
+![Tailwindcss Badge](https://img.shields.io/badge/Tailwind-turquoise?style=for-the-badge&logo=Tailwindcss&logoColor=turquoise&labelColor=white)
+![ChakraUI Badge](https://img.shields.io/badge/Chakra%20ui-%23000?style=for-the-badge&logo=chakraui&labelColor=black&color=lightblue)
 ![Jira Badge](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira&logoColor=blue&labelColor=white)
 
 
