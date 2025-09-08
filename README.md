@@ -9,10 +9,10 @@ I'm Nemanja Gradic, a Front-End React developer with growing full-stack experien
 
 <!-- TODO: Add last video link -->
 
-- 🌍 I'm based in Belgrade, Serbia.
-- 🧠 Currently working on projects.
-- 📫 How to reach me: nemanjagradic12345@gmail.com.
-- 🤝 I'm open to collaborating on interesting projects as a developer.
+- 🌍 I'm based in Belgrade, Serbia
+- 🧠 Actively building web projects
+- 📫 How to reach me: nemanjagradic12345@gmail.com
+- 🤝 Open to collaborations
 
 #### Top Technologies
 
@@ -30,6 +30,7 @@ I'm Nemanja Gradic, a Front-End React developer with growing full-stack experien
 [![Express Badge](https://img.shields.io/badge/-Express-black?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)
 ![Jira Badge](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira&logoColor=blue&labelColor=white)
+
 
 
 
