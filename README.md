@@ -1,6 +1,6 @@
 ## Hi I'm Nemanja <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Nemanja Gradic a Front End Web Developer. I spend most of time coding projects, learning and practicing new skills.
+I'm Nemanja Gradic, a Front-End React developer with growing full-stack experience. I enjoy building smooth, responsive web apps and exploring new technologies.
 
 :mailbox: Reach me out!
 
@@ -10,7 +10,7 @@ I'm Nemanja Gradic a Front End Web Developer. I spend most of time coding projec
 <!-- TODO: Add last video link -->
 
 - 🌍 I'm based in Belgrade, Serbia.
-- 🧠 Currently learning Node.js.
+- 🧠 Currently working on projects.
 - 📫 How to reach me: nemanjagradic12345@gmail.com.
 - 🤝 I'm open to collaborating on interesting projects as a developer.
 
@@ -26,6 +26,10 @@ I'm Nemanja Gradic a Front End Web Developer. I spend most of time coding projec
 ![SASS Badge](https://img.shields.io/badge/Sass-purple?style=for-the-badge&logo=sass&logoColor=purple&labelColor=white)
 ![Tailwindcss Badge](https://img.shields.io/badge/Tailwind-turquoise?style=for-the-badge&logo=Tailwindcss&logoColor=turquoise&labelColor=white)
 ![ChakraUI Badge](https://img.shields.io/badge/Chakra%20ui-%23000?style=for-the-badge&logo=chakraui&labelColor=black&color=lightblue)
+[![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#)
+[![Express Badge](https://img.shields.io/badge/-Express-black?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#)
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)
 ![Jira Badge](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira&logoColor=blue&labelColor=white)
+
 
 
